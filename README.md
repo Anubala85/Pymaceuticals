@@ -21,3 +21,5 @@ In this section have created a Line Plot and a Scatter Plot.
 
 **PART E:**
 FInally here have calcualetd Correlation and Regression.
+
+In the beginning of the code have mentioned my inference after running my program.
